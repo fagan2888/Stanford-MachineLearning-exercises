@@ -11,6 +11,7 @@ Blog: Logistic Regression: http://www.cnblogs.com/llhthinker/p/5330257.html
 ## Exercise 4: Neural Networks Learning
 Blogs:
 神经网络Neural Networks (part one): http://www.cnblogs.com/llhthinker/p/5355987.html
+
 神经网络Neural Networks (part two): http://www.cnblogs.com/llhthinker/p/5356174.html 
 
 ## Exercise 5: Regularized Linear Regression and Bias v.s.Variance
@@ -22,6 +23,7 @@ Blog: 支持向量机(SVMs)概述: http://www.cnblogs.com/llhthinker/p/5415046.h
 ## Exercise 7: K-means Clustering and Principal Component Analysis
 Blogs:
 聚类(Clustering): http://www.cnblogs.com/llhthinker/p/5494321.html
+
 降维(Dimensionality Reduction) http://www.cnblogs.com/llhthinker/p/5522054.html
 
 ## Exercise 8: Anomaly Detection and Recommender Systems
